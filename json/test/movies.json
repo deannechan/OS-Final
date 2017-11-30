@@ -1,0 +1,6 @@
+[
+    {"rating": "3.4", "movie_id": "3", "name": "M1", "director": "D1", "actors": ["A1", "A2"], "genre": "G1"},
+    {"rating": "2.8", "movie_id": "32", "name": "M2", "director": "D2", "actors": ["A2", "A3"], "genre": "G2"},
+    {"rating": "4", "movie_id": "33", "name": "M3", "director": "D2", "actors": ["A1", "A3"], "genre": "G2"},
+    {"rating": "3", "movie_id": "34", "name": "M4", "director": "D1", "actors": ["A2", "A4"], "genre": "G1"}
+]

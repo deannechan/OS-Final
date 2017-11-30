@@ -1,0 +1,10 @@
+[
+    {"movieID": "3", "userID": "75", "rating": "3.5"}, 
+    {"movieID": "32", "userID": "75", "rating": "4.5"}, 
+    {"movieID": "3", "userID": "76", "rating": "3.5"}, 
+    {"movieID": "32", "userID": "76", "rating": "4.5"},
+    {"movieID": "4", "userID": "75", "rating": "3.5"}, 
+    {"movieID": "4", "userID": "76", "rating": "4.5"},
+    {"movieID": "5", "userID": "75", "rating": "3"},
+    {"movieID": "5", "userID": "76", "rating": "3"}
+]
